@@ -7,7 +7,7 @@ function ChapterList({course,refreshData }) {
     <div className='mt-3'>
         <div className='flex flex-row gap-3' >
         <Image src={'/online.gif'}  unoptimized alt = "rocket" width={50} height={50}  />  
-           <h2 className='font-extrabold text-black text-2xl mt-4 '>Chapter</h2>
+           <h2 className='font-extrabold text-black text-2xl mt-4 '>Chapters</h2>
       
         </div>
         <div className='mt-2'>
