@@ -21,7 +21,7 @@ export default[
     
     {
         link:'https://buy.stripe.com/test_bIY15026E6dj5WM4gg',
-        price: 20.00,
+        price: 19.00,
         priceId:"price_1Q9QeOCMvSrEyu1Ixbzidrkp",
         durationName:'Enterprise',
         duration:'/year'
