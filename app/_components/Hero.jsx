@@ -7,7 +7,7 @@ function Hero() {
   <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex  lg:items-center">
     <div className="mx-auto max-w-xl text-center">
       <h1 className="text-5xl font-extrabold sm:text-5xl">
-      The 1 AI-Powered
+      The #1 AI-Powered
         <strong className="font-extrabold text-primary  sm:block"> eLearning Platform </strong>
       </h1>
 
