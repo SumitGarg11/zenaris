@@ -17,7 +17,7 @@ function TopicDescription() {
     <div className='mx-20 lg:mx-44'>
         {/* Input Topic */}
         <div className='mt-5' >
-            <label className='font-extrabold text-lg ' > Enter Your Desired Course Topic(e.g. C++ Course, Yoga , Cooking etc)</label>
+            <label className='font-extrabold text-lg ' > Enter Your Desired Course Topic(e.g. Java Course, Yoga , Cooking etc)</label>
             <br />
                 <Input placeholder={'Topic'}  defaultValue={userCourseInput?.topic}  onChange={(e)=>handleInputChange('topic',e.target.value)  } className="h-14 text-lg bg-blue-500/20 "  />
             
