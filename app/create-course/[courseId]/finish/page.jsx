@@ -40,7 +40,7 @@ function FinishScreen({params}) {
             <Image src={'/copy.gif'} className="inline-block cursor-pointer" onClick={async()=>await navigator.clipboard.writeText(process.env.NEXT_PUBLIC_HOST_NAME+"/course/view/"+course?.courseId)} unoptimized alt="rocket" width={40} height={40} />
         </div>
 
-        <CourseBasicInfo course={course} className="mt-4 mb-0" edit={false} refreshData={()=>console.log()}  />
+        <CourseBasicInfo course={course} className="mt-4" edit={false} refreshData={()=>console.log()}  />
     </div>
   )
 }
