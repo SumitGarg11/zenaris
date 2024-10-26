@@ -15,7 +15,7 @@ function Middle4() {
           className="absolute inset-0 h-full w-full object-cover"
         /> */}
         
-         <Image src= {'/woman-power.gif'} alt ="boss "   width={290} height={280} className='w-full  h-full object-cover  cursor-pointer '  />
+         <Image src= {'/work.gif'} alt ="boss "   width={290} height={280} className='w-full  h-full object-cover  cursor-pointer '  />
       </div>
       <div className="lg:py-24">
         <h2 className="text-3xl  font-bold sm:text-4xl">  <span className='text-pink-500' >Accelerate </span> Women’s Learning</h2>
