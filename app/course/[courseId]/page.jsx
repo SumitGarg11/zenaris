@@ -24,7 +24,7 @@ function Course({params}) {
   return (
     <div>
         <Header />
-        <div className='px-10 p-10 md:px-20 mt-0 lg:px-44' >
+        <div className='px-10 p-10 md:px-20 lg:px-44' >
            <CourseBasicInfo course={course} edit={false}  />
            <CourseDetail  course={course} />
            <ChapterList course={course}  />
