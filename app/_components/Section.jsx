@@ -2,6 +2,8 @@
 import React from 'react'
 import Middle from './Middle'
 import Middle3 from './Middle3'
+import Middle4 from './Middle4'
+import Middle2 from './Middle2'
 
 function Section() {
   return (
@@ -210,7 +212,9 @@ function Section() {
       </div>
     </div>
     
-    <Middle  />
+    <Middle/>
+    
+    {/* <Middle4/> */}
     
   </section>
   )

@@ -6,6 +6,7 @@ import Section from "./_components/Section";
 import Middle from "./_components/Middle";
 import Middle3 from "./_components/Middle3";
 
+
 export default function Home() {
   return (
        <div>
@@ -13,6 +14,7 @@ export default function Home() {
           <Hero />
           <Section />
           <Middle3/>
+          
        </div>
   );
 }

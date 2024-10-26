@@ -2,6 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 import Middle2 from './Middle2'
 import Middle3 from './Middle3'
+import Middle4 from './Middle4'
 
 function Middle() {
   return (
@@ -36,6 +37,7 @@ function Middle() {
     </div>
   </div>
   <Middle2 />
+  <Middle4/>
 
 </section>
   )
