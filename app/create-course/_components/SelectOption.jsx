@@ -42,7 +42,7 @@ function SelectOption() {
         </Select>
         </div>
         <div>
-            <label className='text-sm font-extrabold' >Course Duration </label>
+            <label className='text-sm font-extrabold' >Course Duratio </label>
 
         <Select  defaultValue={userCourseInput?.duration}  onValueChange={(value)=> handleInputChange('duration',value)  } >
             <SelectTrigger className="">
