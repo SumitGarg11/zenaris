@@ -9,7 +9,7 @@ function Middle2() {
   <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
     <div className="max-w-3xl">
       <h2 className="text-3xl font-extrabold  sm:text-5xl">
-      Efficient Skill <span className='text-pink-500'  >Enhancement</span>
+      Efficient Skil <span className='text-pink-500'  >Enhancement</span>
       </h2>
     </div>
 
