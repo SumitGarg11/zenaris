@@ -8,7 +8,7 @@ function CourseDetail({course}) {
             <div className='flex gap-2'>
                 {/* image */}
                 <Image src={'/student.gif'} unoptimized  alt = "rocket" width={50} height={50}  />
-                <div className='mt-3'>
+                <div className='mt-5'>
                     <h2 className='text-xs font-bold text-blue-700'>Learning Stage</h2>
                     <h2 className='font-extrabold text-lg'>{course?.level}</h2>
                 </div>
