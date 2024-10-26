@@ -32,7 +32,7 @@ export default [
    
     {
         id:6,
-        name:'Video Editing',
+        name:'Vide Editing',
         icon:'/solo-traveller.gif',
         promt:''
     }
