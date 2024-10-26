@@ -78,7 +78,7 @@ function CourseLayout({params}) {
        <LoadingDialog loading={loading} />
        
        </div>
-      
+      {/* Basic Info */}
        
       
       <CourseBasicInfo  course={course}  edit={true} refreshData={()=>console.log() }   />
