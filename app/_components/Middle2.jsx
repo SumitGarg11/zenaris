@@ -14,7 +14,7 @@ function Middle2() {
     </div>
 
     <div className="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
-      <div className="relative h-64 overflow-hidden sm:h-80 lg:h-full">
+      <div className="relative h-64 overflow-hidden sm:h-80 lg:h-full shadow-xl  hover:scale-105 transition-all rounded-lg cursor-pointer ">
         {/* <img
           alt=""
           src="https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
