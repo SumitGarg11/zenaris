@@ -13,7 +13,7 @@ function Header() {
     src={'/genrai.png'} 
     width={250} 
     height={100} 
-    className="w-32 sm:w-50 md:w-52" // Adjust image width for responsiveness
+    className="w-32 sm:w-40 md:w-52" // Adjust image width for responsiveness
     alt="Logo"  // Add alt text for accessibility
   />
 </Link>
