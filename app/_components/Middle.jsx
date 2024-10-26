@@ -15,7 +15,7 @@ function Middle() {
           className="absolute inset-0 h-full w-full object-cover"
         /> */}
         
-         <Image src= {'/boss.gif'} alt ="boos "   width={290} height={280} className='w-full  h-full object-cover  cursor-pointer '  />
+         <Image src= {'/boss.gif'} alt ="boss "   width={290} height={280} className='w-full  h-full object-cover  cursor-pointer '  />
       </div>
 
       <div className="lg:py-24">
