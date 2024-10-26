@@ -214,7 +214,7 @@ function Section() {
     
     <Middle/>
     
-    {/* <Middle4/> */}
+    
     
   </section>
   )
